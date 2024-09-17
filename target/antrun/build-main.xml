@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="main"  >
+<target name="main">
+  <copy file="C:\Users\Antot_12\Desktop\java\MadPan\target/MadPan-1.0-SNAPSHOT.jar" todir="E:/serv/plugins"/>
+</target>
+</project>

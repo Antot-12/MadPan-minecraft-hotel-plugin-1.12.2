@@ -1,0 +1,4 @@
+name: MadPan
+version: '1.0-SNAPSHOT'
+main: antot_12.madpan.MadPan
+api-version: 1.12

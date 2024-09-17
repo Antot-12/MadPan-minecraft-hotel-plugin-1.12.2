@@ -1,0 +1,4 @@
+name: MadPan
+version: '${project.version}'
+main: antot_12.madpan.MadPan
+api-version: 1.12
